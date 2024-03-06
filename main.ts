@@ -3,7 +3,10 @@ type Hero = {
     description: string;
 }
 /** This function helps you to have common test data from which you can learn
- *  @returns a female hero
+ *  @returns type Hero = {
+    name: string;
+    description: string;
+}
 */
 export function printHero(): Hero {
     const hero: Hero = {
