@@ -1,6 +1,9 @@
 # testdata-generator
 
-Tired of using an endpoint for tiny test data? Try this mock function!
+Tired of using an endpoint for tiny test data? This will be your module!
+
+This is just a test and *not* ready for use (or super boring to use).
+Currently only my test project for JSR.
 
 ## Usage
 ```javascript
